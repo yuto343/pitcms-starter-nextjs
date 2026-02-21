@@ -1,5 +1,5 @@
 ---
-title: コンテンツを編集する！
+title: コンテンツを編集する！！
 description: pitcmsの「編集セッション」の仕組みと、コンテンツの編集から公開までの流れを解説します。
 publishedAt: 2026-02-03
 isDraft: false
